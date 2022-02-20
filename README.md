@@ -1,33 +1,34 @@
-# Frontend Mentor - 3-column preview card component solution
+# Frontend Mentor - Profile card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.  
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.   
 
 ## Overview
 
-### The challenge
+## The challenge
 
-Users should be able to:
+Your challenge is to build out this profile card component and get it looking as close to the design as possible.
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-### Testimonials grid section
+### Profile card component
 
 ![](./design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: (https://github.com/Sonu-Dutta/Frontend-3_Column_Preview_Card_Component)
-- Live Site URL: (https://frontend-3-column-preview-card-component.vercel.app/)
+- Solution URL: (https://github.com/Sonu-Dutta/Frontend-Profile_Card_Component)
+- Live Site URL: (https://frontend-profile-card-component-nine.vercel.app/)
 
 ## My process
 
 ### Built with
 
+- Visual Studio Code
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- SCSS
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
