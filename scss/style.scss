@@ -1,0 +1,21 @@
+
+// Variables
+
+$dark-cyan: #19a2ae;
+$very-dark-desaturated-blue: #2d3248;
+$dark-grayish-blue: #6a6f81;
+$dark-gray: #9696964d;
+
+// Font
+
+$standard-font: 'Kumbh Sans', sans-serif;
+
+// font-weight
+
+$medium-font:400;
+$large-font:700;
+
+// Imports
+
+@import "./general";
+@import "./card";
